@@ -1,16 +1,18 @@
-- Hello, I am @Emmett1027 and am currently in
-- the process of making a website for my Minecraft Server
+Hi, I'm @Emmett1027.
+I'm a bit new to github, so 
+I thought that I should make a readme.md.
 
--   I don't know why you are reading this.
--   Also, I am new to github so like... are people
--   on your respositories like... always a thing?
--   Who knows.
--
-- I am new to this stuff, so
-- I will appreciate any tips and hints.
--
-- Bye.
-<!---
-Emmett1027/Emmett1027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  If you are reading this... why?
+  Is like... always being on someone's
+  github respositories a thing?
+  :creepy_vibes:
+
+  𝐖𝐡𝐚𝐭 𝐈'𝐦 𝐃𝐨𝐢𝐧𝐠:
+    Currently, I am making a website
+    for my Minecraft Server.
+    It's not released yet, so don't
+    expect to be joining it.
+    The IP is "murdermobs.minehut.gg"
+    It's not up currently.
+
+𝑀𝓎 𝓇𝑒𝒶𝒹𝓂𝑒.𝓂𝒹, 𝓌𝒽𝓎 𝒶𝓇𝑒 𝓎𝑜𝓊 𝓇𝑒𝒶𝒹𝒾𝓃𝑔 𝓉𝒽𝒾𝓈?
